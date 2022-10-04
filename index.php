@@ -6,8 +6,9 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
+        <meta name="description" content="Kamran Int'l Trade Limited is holding External Telecommunications Services (ETS) Operators license from Office of the Communication Authority Hong Kong." />
         <meta name="author" content="" />
+        <meta name="keywords" content="GSM VoIP Gateway, GoIP VoIP Gateway, CDR 700MB, DVD-R DVD+R, VoIP in Hong Kong, Hong Kong Mobile"/> 
         <title> Kamran Int'l Trade Ltd Hong Kong</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
