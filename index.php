@@ -110,9 +110,9 @@
         <section id="products">
             <div class="container px-5">
                 <div class="row gx-5 align-items-center">
-                     <h3 class="text-dark display-4 lh-1 mb-4 text-center">
-                                Our Products
-                            </h3>
+                    <h3 class="text-dark display-4 lh-1 mb-4 text-center">
+                        Our Products
+                    </h3>
                     <div class="col-lg-12 order-lg-1 mb-5 mb-lg-0">
                         <div class="container-fluid px-5">
                             <div class="row gx-5">
@@ -157,17 +157,33 @@
                 </div>
             </div>
         </section>
-   
-     
+
+
         <!-- App badge section-->
         <section class="bg-gradient-primary-to-secondary" id="contact_us">
             <div class="container px-5">
                 <h2 class="text-center text-white font-alt mb-4">Contact Us</h2>
                 <div class="align-items-center text-center text-white">
                     <b>KAMRAN  INTERNATIONAL  TRADE  LIMITED</b>
+                      <hr/>
+                      <div class="row">
+                          <div class="col">
                     <p>UNIT C, BLOCK 5, 46/F, CARIBBEAN COAST, <br/>
                         NO.2 KIN TUNG ROAD, TUNG CHUNG, HONG KONG </p>
+                          </div>
+                            <div class="col">
+                    <p>
+                         UNIT 402, KWAI WU INDUSTRIAL BUILDING,<br/> 
+                         85-89 TA CHUEN PING STREET, KWAI CHUNG, N.T, HONG KONG 
+
+                    </p>
+                            </div> 
+                    
+                      </div>
+                    <hr/>
                     <p>Email: enquiry@kamran.com.hk</p>
+                    <p>TEL: +(852) 2736 6552</p>
+                    <p> FAX: +(852) 2736 6770                     </p>
 
                 </div>
             </div>
@@ -176,8 +192,8 @@
         <footer class="bg-black text-center py-5">
             <div class="container px-5">
                 <div class="text-white-50 small">
-                    <div class="mb-2">&copy; www.kamran.com.hk <?php echo date("Y")?>. All Rights Reserved.</div>
-                  
+                    <div class="mb-2">&copy; www.kamran.com.hk <?php echo date("Y") ?>. All Rights Reserved.</div>
+
                 </div>
             </div>
         </footer>
